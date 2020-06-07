@@ -1,0 +1,3 @@
+import DjPad
+
+DjPad.main()
